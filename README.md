@@ -5,6 +5,6 @@
 - 📫 You can tell me via wpp: +57 3022012224
 
 <!---
-adrianjimenezhe/adrianjimenezhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+adrianjimenezhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
